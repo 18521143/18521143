@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/18521143/FIFO/fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/18521143/FIFO/ram_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/18521143/FIFO/FIFO.srcs/sim_1/new/top_tb.v" into library xil_defaultlib
+ERROR: [VRFC 10-3195] cannot open include file 'ram_fifo.v' [D:/18521143/FIFO/FIFO.srcs/sim_1/new/top_tb.v:1]
+ERROR: [VRFC 10-3195] cannot open include file 'fifo.v' [D:/18521143/FIFO/FIFO.srcs/sim_1/new/top_tb.v:2]
+INFO: [VRFC 10-311] analyzing module top
+ERROR: [VRFC 10-2865] module 'top' ignored due to previous errors [D:/18521143/FIFO/FIFO.srcs/sim_1/new/top_tb.v:4]
